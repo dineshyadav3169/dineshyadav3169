@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dineshyadav3169/dineshyadav3169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## I'm a Student & Developer!
 - 🔭 I’m currently working on a Project!
