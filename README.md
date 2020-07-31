@@ -4,7 +4,7 @@
 ## I'm a Student & Developer!
 - 🔭 I’m currently working on a Project!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: <i>Default<i/>
   
