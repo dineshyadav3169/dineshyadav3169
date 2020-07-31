@@ -38,8 +38,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshyadav3169&layout=compact&hide=html)](https://github.com/dineshyadav3169)
-
 [twitter]: https://twitter.com/thedineshyadav_
 [instagram]: https://instagram.com/thedineshyadav
 [linkedin]: https://linkedin.com/in/thedineshyadav
