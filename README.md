@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a Student & Developer!
@@ -41,3 +41,6 @@
 [twitter]: https://twitter.com/thedineshyadav_
 [instagram]: https://instagram.com/thedineshyadav
 [linkedin]: https://linkedin.com/in/thedineshyadav
+
+---
+<img align="center" alt="Dinesh Kumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dineshyadav3169&show_icons=true&hide_border=true&hide=prs,issues" />
