@@ -2,7 +2,7 @@
 
 
 ## I'm a Student & Developer!
-- 🔭 I’m currently working on a Project!<img align="right" alt="Dinesh Kumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dineshyadav3169&show_icons=true&hide_border=true&hide=prs,issues&hide_rank=true" />
+- 🔭 I’m currently working on a Project!<img align="right" alt="Dinesh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dineshyadav3169&show_icons=true&hide_border=true&hide=prs,issues&hide_rank=true" />
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
