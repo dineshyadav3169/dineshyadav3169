@@ -6,7 +6,6 @@
  🔭 I’m currently working on a Project! \
  🌱 I’m currently learning everything 🤣 \
  👯 I’m looking to collaborate with other developers \
- 🥅 2021 Goals: Learn Elixir, React Native Android and CloudFlare \
  ⚡ Fun fact: <i>Default<i/>
   
 <br>
