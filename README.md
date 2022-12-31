@@ -44,11 +44,10 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:dineshyadav3169@gmail.com'>dineshyadav3169@gmail.com</a>
 </p>
-<p align='center'>
-  Milestone listed below 👇
-</p>
 
-  
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=dineshyadav3169 alt=dineshyadav3169/>
+</p>
 
 <!--
 Here are some ideas to get you started:
