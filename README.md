@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Dinesh 👨‍💻
+  Hi there 👋 I'm Dinesh
 </h1>
 
 <p align='center'>
